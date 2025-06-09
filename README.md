@@ -43,13 +43,6 @@
 </p>
 
 <br/>
-
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Y-TANMAI-SAIRAM&theme=react-dark&hide_border=true" />
-</p>
-
 <br/>
 
 <h2>🧠 Courses & Certifications</h2>
