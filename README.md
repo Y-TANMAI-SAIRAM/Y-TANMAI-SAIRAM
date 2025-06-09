@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Tanmai Sairam Yerra</h1>
 <h2 align="center">AI & ML Enthusiast | Python Developer | B.Tech CSE Student</h2>
 
@@ -45,6 +44,14 @@
 
 <br/>
 
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Y-TANMAI-SAIRAM&theme=react-dark&hide_border=true" />
+</p>
+
+<br/>
+
 <h2>🧠 Courses & Certifications</h2>
 
 <ul>
@@ -77,14 +84,6 @@
   <a href="mailto:yerrasai2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<br/>
-
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Y-TANMAI-SAIRAM&theme=react-dark&hide_border=true" />
 </p>
 
 <br/>
