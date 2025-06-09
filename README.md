@@ -84,7 +84,7 @@
 <h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezvis.tech/graph?username=y-tanmai-sairam&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Y-TANMAI-SAIRAM&theme=react-dark&hide_border=true" />
 </p>
 
 <br/>
